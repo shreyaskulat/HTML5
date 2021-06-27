@@ -1,4 +1,4 @@
-# HTML5 AGE CALCULATOR CODE
+# Python3 AGE CALCULATOR CODE
 # import all functions from the tkinter  
 from tkinter import *
  
